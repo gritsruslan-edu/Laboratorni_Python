@@ -1,0 +1,52 @@
+{
+    "Ukraine": {
+        "area": 600000,
+        "population": 35000000,
+        "continent": "Eurasia"
+    },
+    "Germany": {
+        "area": 357000,
+        "population": 83000000,
+        "continent": "Europe"
+    },
+    "Canada": {
+        "area": 9985000,
+        "population": 38000000,
+        "continent": "North America"
+    },
+    "Brazil": {
+        "area": 8516000,
+        "population": 213000000,
+        "continent": "South America"
+    },
+    "Columbia": {
+        "area": 860000,
+        "population": 330000,
+        "continent": "South America"
+    },
+    "Australia": {
+        "area": 7692000,
+        "population": 25600000,
+        "continent": "Australia"
+    },
+    "Japan": {
+        "area": 377975,
+        "population": 125800000,
+        "continent": "Asia"
+    },
+    "Argentina": {
+        "area": 2780000,
+        "population": 45000000,
+        "continent": "South America"
+    },
+    "South Africa": {
+        "area": 1221000,
+        "population": 59300000,
+        "continent": "Africa"
+    },
+    "Sudan": {
+        "area": 1886000,
+        "population": 48000000,
+        "continent": "Africa"
+    }
+}
